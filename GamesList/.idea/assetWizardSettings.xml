@@ -45,7 +45,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="text" value="LOADING..." />
+                                                <entry key="text" value="IMAGE NOT FOUND" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -61,7 +61,7 @@
                                       <entry key="foregroundAssetType" value="TEXT" />
                                       <entry key="foregroundImage" value="C:\Users\Cliente\Desktop\image-not-found.png" />
                                       <entry key="foregroundLayerName" value="ic_launcher_foreground" />
-                                      <entry key="outputName" value="im_loading_image" />
+                                      <entry key="outputName" value="im_image_not_found" />
                                     </map>
                                   </option>
                                 </PersistentState>
